@@ -1,5 +1,3 @@
-
-
 def digInTheDirt() -> None:
 
     inputLine = None
