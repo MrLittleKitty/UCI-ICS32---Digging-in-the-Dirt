@@ -1,4 +1,3 @@
-# Eric Wolfe. UCI ID#: 76946154. eawolfe@uci.edu
 from pathlib import *
 
 
